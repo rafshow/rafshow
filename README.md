@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @rafshow
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Information Systems at @FURG
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋🏻 Hey, I'm Rafael 
 
-<!---
-rafshow/rafshow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🧑🏻‍💻 22 years old, currently learning **web-development**
+- 🎨 I love **editing** stuff and am always looking for ways to incorporate some cool **designs** into my projects
+- 🎓 **Information Systems** student @ FURG
+- 📖 Currently studying **JavaScript**
+- 🌱 Aiming to study **React**, **Typescript**...
+- 🏋🏻 I love playing soccer, lift some weights and go to the movies 
+
