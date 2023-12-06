@@ -16,6 +16,6 @@
           
 ##
 
-### you can find me at
+### 📩 you can find me at
 <a href="https://www.instagram.com/rafsbbit/"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:krafaelcoelho@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
