@@ -2,7 +2,7 @@
 
 ### 🤔 About Me 
 - 🧑🏻‍💻 22 years old, currently learning **web-development**
-- 🎨 I love **editing** stuff and am always looking for ways to incorporate some cool **designs** into my projects
+- 🎨 I love **editing** stuff and I'm always looking for ways to incorporate some cool **designs** into my projects
 - 🎓 **Information Systems** student @ FURG
 - 📖 Currently studying **JavaScript**
 - 🌱 Aiming to study **React**, **Typescript**...
