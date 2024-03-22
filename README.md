@@ -7,7 +7,7 @@
 - 📖 Currently studying **JavaScript**
 - 🌱 Aiming to study **React**, **Typescript**...
 - 🏋🏻 I love playing soccer, lift some weights and go to the movies
-- you can checkout my <a href="https://portfolio-590vc6r0z-rafaels-projects-bc61d32e.vercel.app/index.html">**portfolio**!<a/>
+
 
 ##
 
