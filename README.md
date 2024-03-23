@@ -7,7 +7,7 @@
 - 📖 Currently studying **JavaScript**
 - 🌱 Aiming to study **React**, **Typescript**...
 - 🏋🏻 I love playing soccer, lift some weights and go to the movies
-- you can checkout my <a href="https://rafshow.github.io/discover/" target=_blank >**landing page**!<a/>
+- you can checkout my <a href="https://rafshow.github.io/discover/" target="_blank" >**landing page**!<a/>
 
 ##
 
