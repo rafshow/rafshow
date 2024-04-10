@@ -5,7 +5,7 @@
 - 🎨 I love **editing** stuff and I'm always looking for ways to incorporate some cool **designs** into my projects
 - 🎓 **Information Systems** student @ FURG
 - 📖 Currently studying **JavaScript**
-- 🌱 Aiming to study **React**, **Typescript**...
+- 🌱 Aiming to study **NodeJS**, **Typescript** and **React**...
 - 🏋🏻 I love playing soccer, lift some weights and go to the movies
 - you can checkout my <a href="https://rafshow.github.io/discover/" target="_blank" >**landing page**!<a/>
 
